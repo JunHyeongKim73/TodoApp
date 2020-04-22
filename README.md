@@ -1,7 +1,7 @@
 # TodoApp
 Application for To-Do
 ## How To Use
-1. $ npm install --global expo-cli  
-2. $ git remote add origin https://github.com/JunHyeongKim73/TodoApp.git
-3. $ git pull origin master
-4. $ expo start
+$ npm install --global expo-cli  
+$ git remote add origin https://github.com/JunHyeongKim73/TodoApp.git
+$ git pull origin master
+$ expo start

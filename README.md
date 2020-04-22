@@ -1,7 +1,8 @@
 # TodoApp
 Application for To-Do
 ## View
-!(https://mail.naver.com/read/image/?mailSN=8802&attachIndex=2&contentType=image/jpeg&offset=1439&size=188968&maxSize=200&mimeSN=1587566263.909019.55945.1792&u=rla5764v)
+![Screenshot_20200422-233611_Expo](https://user-images.githubusercontent.com/56298375/79995741-8cf46380-84f2-11ea-9dab-306c8cabe376.jpg)
+
 ## How To Use
 >$ npm install --global expo-cli  
 $ git remote add origin https://github.com/JunHyeongKim73/TodoApp.git        
